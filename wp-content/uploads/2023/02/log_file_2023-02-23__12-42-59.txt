@@ -1,0 +1,111 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://101.132.253.207
+Data file = /www/wwwroot/101.132.253.207/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = /www/wwwroot/101.132.253.207/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = /www/wwwroot/101.132.253.207/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+搜索 - No Title - Imported
+TF: Popular Posts - No Title - Imported
+归档 - No Title - Imported
+分类 - No Title - Imported
+其他操作 - No Title - Imported
+
+Top Header Info : 
+
+文本 - No Title - Imported
+
+Advertisement Banner One : 
+
+图片 - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+产品列表 - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+按评级划分的产品列表 - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+自定义HTML - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+产品类别 - Product categories - Imported
+启用产品过滤器 - Active filters - Imported
+按价格筛选产品 - Filter by price - Imported
+产品列表 - Products - Imported
+产品标签云 - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+产品列表 - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+产品列表 - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+产品列表 - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+产品列表 - Products - Imported
+
+Footer Column 1 : 
+
+文本 - No Title - Imported
+
+Footer Column 2 : 
+
+自定义HTML - We Accept - Imported
+
+Footer Column 3 : 
+
+自定义HTML - Shop Location - Imported
+
+Footer Column 4 : 
+
+图片 - Download App - Imported
+图片 - No Title - Imported
+
+Max Mega Menu 小工具 : 
+
+产品列表 - Products - Imported
+文本 - No Title - Imported
+产品列表 - Products - Imported
+文本 - No Title - Imported
+Max Mega Menu - No Title - Imported
+导航菜单 - No Title - Imported
+图片 - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
